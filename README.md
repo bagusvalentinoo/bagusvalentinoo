@@ -1,6 +1,8 @@
+<img alt="Coding In Los Angeles" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg">
+
 <h1 align="center">Hi 👋, I'm Bagus Valentino</h1>
 <h3 align="center">Web Developer | Frontend Developer | Backend Developer</h3>
-<img align="right" alt="My Alter Ego" width="400" src="https://images.alphacoders.com/125/1251058.jpg">
+<img align="right" alt="My Alter Ego" width="370" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusvalentinoo&label=Profile%20views&color=0e75b6&style=flat" alt="bagusvalentinoo" /> </p>
 
