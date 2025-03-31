@@ -1,11 +1,12 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/bagusvalentinoo/bagusvalentinoo/main/assets/images/wave.gif" height="35px"> Hi there, I'm Bagus Valentino!</h1>
 
 <div align="left">
-<p>🌟 I’m a passionate and professional Software Engineer who builds software with the best practices, from strategic planning and meticulous design to seamless deployment and long-term maintenance. I craft clean, scalable, and impactful solutions that solve real-world problems and drive meaningful value for users. Transforming ideas into innovative tools is my expertise, and I take pride in delivering reliable results while continuously striving for excellence and growth. 🚀
-  
-I’m also deeply enthusiastic about Leetcode and competitive programming, where solving complex problems with code is not just a skill but a passion. I approach every challenge with consistency, discipline, and a strong work ethic, ensuring I deliver high-quality results while continuously growing as a developer. 🌱  
+<p>🌟 I’m a passionate and professional Software Engineer who builds software with the best practices, from strategic planning and meticulous design to seamless deployment and long-term maintenance. Despite my relatively young age, I bring a fresh perspective, boundless energy, and a hunger for learning to every project I tackle. I craft clean, scalable, and impactful solutions that solve real-world problems and drive meaningful value for users. Transforming ideas into innovative tools is my expertise, and I take pride in delivering reliable results while continuously striving for excellence and growth. 🚀
 
-With a focus on innovation, collaboration, and creating impactful solutions, I’m always eager to connect with like-minded individuals and build something extraordinary together. Let’s team up and create the future, one line of code at a time! ✨</p>
+I’m also deeply enthusiastic about Leetcode and competitive programming, where solving complex problems with code is not just a skill but a passion. I approach every challenge with consistency, discipline, and a strong work ethic, ensuring I deliver high-quality results while continuously growing as a developer. 🌱
+
+With a focus on innovation, collaboration, and creating impactful solutions, I’m always eager to connect with like-minded individuals and build something extraordinary together. Let’s team up and create the future, one line of code at a time! ✨
+</p>
 <br />
 </div>
 
