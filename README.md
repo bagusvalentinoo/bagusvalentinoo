@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/bagusvalentinoo/bagusvalentinoo/main/assets/images/wave.gif" height="35px"> Hi there, I'm Bagus Valentino!</h1>
 
 <div align="left">
-<p>🌟 I’m a passionate and professional Software Engineer who builds software with the best practices, from strategic planning and meticulous design to seamless deployment and long-term maintenance. Despite my relatively young age, I bring a fresh perspective, boundless energy, and a hunger for learning to every project I tackle. I craft clean, scalable, and impactful solutions that solve real-world problems and drive meaningful value for users. Transforming ideas into innovative tools is my expertise, and I take pride in delivering reliable results while continuously striving for excellence and growth. 🚀
+<p>🌟 I’m a passionate and professional Software Engineer who builds software with the best practices, from strategic planning and meticulous design to seamless deployment and long-term maintenance. Despite my relatively young age, I bring a fresh perspective, boundless energy, and an insatiable hunger for learning to every project I tackle. I craft clean, scalable, and impactful solutions that solve real-world problems and drive meaningful value for users. Transforming ideas into innovative tools is my expertise, and I take pride in delivering reliable results while continuously striving for excellence and growth. 🚀
 
-I’m also deeply enthusiastic about Leetcode and competitive programming, where solving complex problems with code is not just a skill but a passion. I approach every challenge with consistency, discipline, and a strong work ethic, ensuring I deliver high-quality results while continuously growing as a developer. 🌱
+🎯 I’m deeply enthusiastic about Competitive Programming, where solving complex problems with code is not just a skill but a true passion. I approach every challenge with discipline, consistency, and a strict work ethic, ensuring high-quality outcomes in all that I do. Committed to never settling for mediocrity, I push myself to improve by 1% daily. Open-minded and adaptable, I embrace new ideas and perspectives while staying focused on delivering impactful results. 🌱
 
-With a focus on innovation, collaboration, and creating impactful solutions, I’m always eager to connect with like-minded individuals and build something extraordinary together. Let’s team up and create the future, one line of code at a time! ✨
+✨ With a focus on innovation, collaboration, and creating meaningful solutions, I’m always eager to connect with like-minded individuals who share the same drive for excellence. Together, we can build something extraordinary—one line of code at a time. Let’s team up and create the future! ✨
 </p>
 <br />
 </div>
