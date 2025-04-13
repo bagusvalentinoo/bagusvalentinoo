@@ -6,6 +6,7 @@
 🎯 I’m deeply enthusiastic about Competitive Programming, where solving complex problems with code is not just a skill but a true passion. I approach every challenge with discipline, consistency, and a strict work ethic, ensuring high-quality outcomes in all that I do. Committed to never settling for mediocrity, I push myself to improve by 1% daily. Open-minded and adaptable, I embrace new ideas and perspectives while staying focused on delivering impactful results. 🌱
 
 ✨ With a focus on innovation, collaboration, and creating meaningful solutions, I’m always eager to connect with like-minded individuals who share the same drive for excellence. Together, we can build something extraordinary—one line of code at a time. Let’s team up and create the future! ✨
+
 </p>
 <br />
 </div>
@@ -16,6 +17,8 @@
   <a href="https://x.com/bagusvalentinoo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" height="25px"></a>
   <a href="https://leetcode.com/u/bagusvalentino/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="25px"></a>
 </div>
+
+<hr />
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -188,16 +191,19 @@
   <img alt="Other AI Tools For Productivity Badge" src="https://img.shields.io/badge/Other%20AI%20Tools%20For%20Productivity-4CAF50?style=flat&logo=otheraitools&logoColor=white" height="25px">
 </p>
 
+<hr />
+
 ## 📊 &nbsp;Stats
 
 <p align="center">
-    <a href="https://github.com/bagusvalentinoo/bagusvalentinoo">
+    <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=bagusvalentinoo&column=-1&theme=juicyfresh" />
-    </a>
-    <a href="https://github.com/bagusvalentinoo" align="left">
+    </div>
+    <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusvalentinoo&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;layout=compact&exclude_repo=Customer-Review-ML-Case,Artificial-Neural-Network" alt="Top Languages" />
-    </a>
-    <a href="https://github.com/bagusvalentinoo" align="right">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagusvalentinoo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&include_all_commits=true" alt="User Statistics" />
-    </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagusvalentinoo&theme=dark&hide_border=true" alt="bagusvalentinoo's Streak" />
+    </div>
 </p>
+<br />
+</div>
