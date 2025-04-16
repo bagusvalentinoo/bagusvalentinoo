@@ -12,6 +12,7 @@
 </div>
 
 <div align="center">
+  <h3>📫 Connect with me</h3>
   <img alt="Profile Views" height="25px" src="https://komarev.com/ghpvc/?username=bagusvalentinoo&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://www.linkedin.com/in/bagus-valentino/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25px"></a>
   <a href="https://x.com/bagusvalentinoo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" height="25px"></a>
