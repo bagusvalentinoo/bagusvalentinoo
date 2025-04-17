@@ -1,5 +1,3 @@
-<div align="center"><img src="https://raw.githubusercontent.com/bagusvalentinoo/bagusvalentinoo/main/assets/images/uchiha_itachi.jpg" height="400px"> </div>
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/bagusvalentinoo/bagusvalentinoo/main/assets/images/wave.gif" height="35px"> Hi there, I'm Bagus Valentino!</h1>
 
 <div align="left">
