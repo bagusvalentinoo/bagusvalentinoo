@@ -21,9 +21,7 @@
 
 <br />
 
-## 🛠️ &nbsp;Tech Stack
-
-### Programming Languages
+## Programming Languages
 
 <div align="left">
   <img alt="HTML Bagde" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="25px">
@@ -40,9 +38,9 @@
   <img alt="Rust Badge" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" height="25px">
 </div>
 
-### Frameworks and Libraries
+## Frameworks and Libraries
 
-<p align="left">
+<div align="left">
   <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="25px">
   <img alt="Bun Badge" src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff" height="25px">
   <img alt="NPM Bagde" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" height="25px">
@@ -73,22 +71,22 @@
   <img alt="Prisma ORM Badge" src="https://img.shields.io/badge/prisma%20orm-%230089B2.svg?style=for-the-badge&logo=prisma&logoColor=white" height="25px">
   <img alt="Drizzle ORM Badge" src="https://img.shields.io/badge/drizzle%20orm-%2300BCD4.svg?style=for-the-badge&logo=drizzle&logoColor=white" height="25px">
   <img alt="TypeORM Badge" src="https://img.shields.io/badge/typeorm-%23FF5722.svg?style=for-the-badge&logo=typeorm&logoColor=white" height="25px">
-</p>
+</div>
 
-### Databases
+## Databases
 
-<p align="left">
+<div align="left">
   <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="25px">
   <img alt="PostgreSQL Bagde" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="25px">
   <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25px">
   <img alt="Neon Postgres Badge" src="https://img.shields.io/badge/Neon%20Postgres-316192?style=flat&logo=neonpostgres&logoColor=white" height="25px">
   <img alt="Vercel Postgres Badge" src="https://img.shields.io/badge/Vercel%20Postgres-000000?style=flat&logo=vercelpostgres&logoColor=white" height="25px">
   <img alt="Prisma Postgres Badge" src="https://img.shields.io/badge/Prisma%20Postgres-316192?style=flat&logo=prismapostgres&logoColor=white" height="25px">
-</p>
+</div>
 
-### Cloud Services and Deployment
+## Cloud Services and Deployment
 
-<p align="left">
+<div align="left">
   <img alt="AWS S3 Badge" src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white" height="25px">
   <img alt="Firebase Storage Badge" src="https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=flat&logo=firebase&logoColor=white" height="25px">
   <img alt="Firebase Cloud Messaging Badge" src="https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=flat&logo=firebase&logoColor=white" height="25px">
@@ -96,30 +94,30 @@
   <img alt="Heroku Badge" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" height="25px">
   <img alt="Vercel Badge" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25px">
   <img alt="Render Badge" src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" height="25px">
-</p>
+</div>
 
-### DevOps Tools
+## DevOps Tools
 
-<p align="left">
+<div align="left">
   <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="25px">
   <img alt="Kubernetes Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px">
   <img alt="Jenkins Badge" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="25px">
   <img alt="GitHub Actions Badge" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px">
   <img alt="CircleCI Badge" src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white" height="25px">
-</p>
+</div>
 
-### Version Control
+## Version Control
 
-<p align="left">
+<div align="left">
   <img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px">
   <img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25px">
   <img alt="GitLab Badge" src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" height="25px">
   <img alt="Bitbucket Badge" src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" height="25px">
-</p>
+</div>
 
-### Testing and Documentation
+## Testing and Documentation
 
-<p align="left">
+<div align="left">
   <img alt="Jest Badge" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" height="25px">
   <img alt="Mocha Badge" src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" height="25px">
   <img alt="SuperTest Badge" src="https://img.shields.io/badge/SuperTest-4CAF50?style=flat&logo=supertest&logoColor=white" height="25px">
@@ -129,37 +127,37 @@
   <img alt="Swagger Badge" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="25px">
   <img alt="OpenAPI Badge" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" height="25px">
   <img alt="Postman Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="25px">
-</p>
+</div>
 
-### API Architectures
+## API Architectures
 
-<p align="left">
+<div align="left">
   <img alt="REST Badge" src="https://img.shields.io/badge/REST-000000?style=flat&logo=rest&logoColor=white" height="25px">
   <img alt="GraphQL Badge" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="25px">
   <img alt="Socket.io Badge" src="https://img.shields.io/badge/socket.io-010101?style=flat&logo=socket.io&logoColor=white" height="25px">
   <img alt="Microservices Architecture Badge" src="https://img.shields.io/badge/Microservices%20Architecture-2196F3?style=flat&logo=microservices&logoColor=white" height="25px">
-</p>
+</div>
 
-### Programming Paradigms
+## Programming Paradigms
 
-<p align="left">
+<div align="left">
   <img alt="Functional Programming Badge" src="https://img.shields.io/badge/Functional%20Programming-4CAF50?style=flat&logo=functionalprogramming&logoColor=white" height="25px">
   <img alt="Object-Oriented Programming Badge" src="https://img.shields.io/badge/Object%20Oriented%20Programming-2196F3?style=flat&logo=oop&logoColor=white" height="25px">
   <img alt="Procedural Programming Badge" src="https://img.shields.io/badge/Procedural%20Programming-FFC107?style=flat&logo=proceduralprogramming&logoColor=white" height="25px">
   <img alt="Imperative Programming Badge" src="https://img.shields.io/badge/Imperative%20Programming-FF5722?style=flat&logo=imperativeprogramming&logoColor=white" height="25px">
-</p>
+</div>
 
-### Caching and Queues
+## Caching and Queues
 
-<p align="left">
+<div align="left">
   <img alt="Cache Management Badge" src="https://img.shields.io/badge/Cache%20Management-4CAF50?style=flat&logo=cachemanagement&logoColor=white" height="25px">
   <img alt="Queue Processing Badge" src="https://img.shields.io/badge/Queue%20Processing-2196F3?style=flat&logo=queueprocessing&logoColor=white" height="25px">
   <img alt="Redis Badge" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="25px">
-</p>
+</div>
 
-### Security Practices
+## Security Practices
 
-<p align="left">
+<div align="left">
   <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-4CAF50?style=flat&logo=jwt&logoColor=white" height="25px">
   <img alt="Bearer Token Badge" src="https://img.shields.io/badge/Bearer%20Token-2196F3?style=flat&logo=bearertoken&logoColor=white" height="25px">
   <img alt="Oauth2 Badge" src="https://img.shields.io/badge/Oauth2-FFC107?style=flat&logo=oauth2&logoColor=white" height="25px">
@@ -177,11 +175,11 @@
   <img alt="OWASP Badge" src="https://img.shields.io/badge/OWASP-607D8B?style=flat&logo=owasp&logoColor=white" height="25px">
   <img alt="Security Headers Badge" src="https://img.shields.io/badge/Security%20Headers-4CAF50?style=flat&logo=securityheaders&logoColor=white" height="25px">
   <img alt="Security Practices Badge" src="https://img.shields.io/badge/Security%20Practices-FF5722?style=flat&logo=securitypractices&logoColor=white" height="25px">
-</p>
+</div>
 
-### Collaboration and Productivity Tools
+## Collaboration and Productivity Tools
 
-<p align="left">
+<div align="left">
   <img alt="Slack Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" height="25px">
   <img alt="Notion Badge" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="25px">
   <img alt="Trello Badge" src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" height="25px">
@@ -190,13 +188,11 @@
   <img alt="Figma Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25px">
   <img alt="v0 Badge" src="https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff" height="25px">
   <img alt="Other AI Tools For Productivity Badge" src="https://img.shields.io/badge/Other%20AI%20Tools%20For%20Productivity-4CAF50?style=flat&logo=otheraitools&logoColor=white" height="25px">
-</p>
-
-<hr />
+</div>
 
 ## 📊 &nbsp;Stats
 
-<p align="center">
+<div align="center">
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=bagusvalentinoo&column=-1&theme=juicyfresh" />
     </div>
@@ -205,6 +201,5 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagusvalentinoo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&include_all_commits=true" alt="User Statistics" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagusvalentinoo&theme=dark&hide_border=true" alt="bagusvalentinoo's Streak" />
     </div>
-</p>
-<br />
 </div>
+<br />
