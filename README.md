@@ -55,7 +55,7 @@
   <img alt="Actix Web Badge" src="https://img.shields.io/badge/Actix%20Web-%23000000.svg?logo=rust&logoColor=white" height="25px">
 </div>
 
-## Frameworks and Libraries
+## Frontend Stacks
 
 <div align="left">
   <img alt="Vue.js Badge" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" height="25px">
