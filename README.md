@@ -82,9 +82,6 @@
   <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="25px">
   <img alt="PostgreSQL Bagde" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="25px">
   <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25px">
-  <img alt="Neon Postgres Badge" src="https://img.shields.io/badge/Neon%20Postgres-316192?style=flat&logo=neonpostgres&logoColor=white" height="25px">
-  <img alt="Vercel Postgres Badge" src="https://img.shields.io/badge/Vercel%20Postgres-000000?style=flat&logo=vercelpostgres&logoColor=white" height="25px">
-  <img alt="Prisma Postgres Badge" src="https://img.shields.io/badge/Prisma%20Postgres-316192?style=flat&logo=prismapostgres&logoColor=white" height="25px">
   <img alt="Sequelize ORM Badge" src="https://img.shields.io/badge/sequelize%20orm-%23E10098.svg?style=for-the-badge&logo=sequelize&logoColor=white" height="25px">
   <img alt="Prisma ORM Badge" src="https://img.shields.io/badge/prisma%20orm-%230089B2.svg?style=for-the-badge&logo=prisma&logoColor=white" height="25px">
   <img alt="Drizzle ORM Badge" src="https://img.shields.io/badge/drizzle%20orm-%2300BCD4.svg?style=for-the-badge&logo=drizzle&logoColor=white" height="25px">
@@ -103,6 +100,10 @@
   <img alt="Vercel Badge" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25px">
   <img alt="Heroku Badge" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" height="25px">
   <img alt="Render Badge" src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" height="25px">
+  <img alt="Neon Postgres Badge" src="https://img.shields.io/badge/Neon%20Postgres-316192?style=flat&logo=neonpostgres&logoColor=white" height="25px">
+  <img alt="Vercel Postgres Badge" src="https://img.shields.io/badge/Vercel%20Postgres-000000?style=flat&logo=vercelpostgres&logoColor=white" height="25px">
+  <img alt="Prisma Postgres Badge" src="https://img.shields.io/badge/Prisma%20Postgres-316192?style=flat&logo=prismapostgres&logoColor=white" height="25px">
+  <img alt="MongoDB Cloud Bagde" src="https://img.shields.io/badge/MongoDB%20Cloud-%234ea94b.svg?logo=mongodb&logoColor=white" height="25px">
   <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="25px">
   <img alt="CI/CD Badge" src="https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=googlecloud&logoColor=white" height="25px">
   <img alt="Jenkins Badge" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="25px">
